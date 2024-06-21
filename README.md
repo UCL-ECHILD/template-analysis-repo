@@ -1,6 +1,7 @@
 # template-analysis-repo
 
-A template repo for ECHILD analysis projects.
+A template repo for ECHILD analysis projects. Please share your ECHILD analysis code 
+in our [ECHILD analyses library](https://github.com/ECHILD-analyses) 🤗
 
 ## Suggested contents
 
